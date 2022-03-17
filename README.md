@@ -12,3 +12,13 @@ Tarefa 4: Pirâmide / Cone
 Tarefa 5: Prisma / Cilindro
 
 Tarefa 6: Sólidos de Revolução
+
+# Relatório etapa 2-
+
+Tarefa 1: Cubo com textura - Dado
+
+Tarefa 2: Globo terrestre – Esfera com textura
+
+Tarefa 3: Prismas e Pirâmides com iluminação
+
+Tarefa 4: Coelho de Stanford (obj)
